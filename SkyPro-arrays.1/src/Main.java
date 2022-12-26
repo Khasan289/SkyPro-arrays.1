@@ -30,7 +30,9 @@ public class Main {
             System.out.print(firstArray[i] + ", ");
         }
         System.out.println();
+
         // подзадача 2
+
         for (int i = 0; i < secondArray.length; i++) {
             if (i == secondArray.length - 1) {
                 System.out.print(secondArray[i]);
@@ -39,7 +41,9 @@ public class Main {
             System.out.print(secondArray[i] + ", ");
         }
         System.out.println();
+
         //подзадача 3
+
         for (int i = 0; i < thirdArray.length; i++) {
             if (i == thirdArray.length - 1) {
                 System.out.print(thirdArray[i]);
